@@ -19,6 +19,7 @@ Options
 --epath: "EPath" expression (same as XPath) to use for selection of nodes in the EDI input
 --format: write each segment to the output on a separate line (optional)
 --schema-file: path to a schema file to use when parsing the EDI input
+```
 
 ## Licesne 
 
