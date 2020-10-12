@@ -1,0 +1,23 @@
+{
+	"bin": {
+		"ediq-npm": "jdeploy-bundle/jdeploy.js"
+	},
+	"author": "sam bacha <sam@freighttrust.com>",
+	"description": "edifact / x12 xpath cli",
+	"main": "index.js",
+	"preferGlobal": true,
+	"repository": "https://github.com/freight-trust/ediq-npm",
+	"version": "1.0.0",
+	"jdeploy": {},
+	"dependencies": {
+		"shelljs": "^0.7.5"
+	},
+	"license": "Apache-2.0",
+	"name": "ediq-cli",
+	"files": [
+		"jdeploy-bundle"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
